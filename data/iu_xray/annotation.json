@@ -1,0 +1,136 @@
+{
+  "train": [
+    {
+      "id": "CXR1_IM-0001-0001",
+      "image_path": [
+        "CXR1_IM-0001-0001_0.png",
+        "CXR1_IM-0001-0001_1.png"
+      ],
+      "report": "the heart is normal in size. the lungs are clear. no acute abnormality."
+    },
+    {
+      "id": "CXR2_IM-0002-0002",
+      "image_path": [
+        "CXR2_IM-0002-0002_0.png",
+        "CXR2_IM-0002-0002_1.png"
+      ],
+      "report": "the cardiac silhouette is normal. the lungs are clear. no pleural effusion."
+    },
+    {
+      "id": "CXR3_IM-0003-0003",
+      "image_path": [
+        "CXR3_IM-0003-0003_0.png",
+        "CXR3_IM-0003-0003_1.png"
+      ],
+      "report": "the heart is normal in size. the lungs are clear. no acute abnormality."
+    },
+    {
+      "id": "CXR4_IM-0004-0004",
+      "image_path": [
+        "CXR4_IM-0004-0004_0.png",
+        "CXR4_IM-0004-0004_1.png"
+      ],
+      "report": "the cardiac silhouette is normal. the lungs are clear. no pleural effusion."
+    },
+    {
+      "id": "CXR5_IM-0005-0005",
+      "image_path": [
+        "CXR5_IM-0005-0005_0.png",
+        "CXR5_IM-0005-0005_1.png"
+      ],
+      "report": "the heart is normal in size. the lungs are clear. no acute abnormality."
+    },
+    {
+      "id": "CXR6_IM-0006-0006",
+      "image_path": [
+        "CXR6_IM-0006-0006_0.png",
+        "CXR6_IM-0006-0006_1.png"
+      ],
+      "report": "the cardiac silhouette is normal. the lungs are clear. no pleural effusion."
+    },
+    {
+      "id": "CXR7_IM-0007-0007",
+      "image_path": [
+        "CXR7_IM-0007-0007_0.png",
+        "CXR7_IM-0007-0007_1.png"
+      ],
+      "report": "the heart is normal in size. the lungs are clear. no acute abnormality."
+    },
+    {
+      "id": "CXR8_IM-0008-0008",
+      "image_path": [
+        "CXR8_IM-0008-0008_0.png",
+        "CXR8_IM-0008-0008_1.png"
+      ],
+      "report": "the cardiac silhouette is normal. the lungs are clear. no pleural effusion."
+    }
+  ],
+  "val": [
+    {
+      "id": "CXR9_IM-0009-0009",
+      "image_path": [
+        "CXR9_IM-0009-0009_0.png",
+        "CXR9_IM-0009-0009_1.png"
+      ],
+      "report": "the heart is normal in size. the lungs are clear. no acute abnormality."
+    },
+    {
+      "id": "CXR10_IM-0010-0010",
+      "image_path": [
+        "CXR10_IM-0010-0010_0.png",
+        "CXR10_IM-0010-0010_1.png"
+      ],
+      "report": "the cardiac silhouette is normal. the lungs are clear. no pleural effusion."
+    },
+    {
+      "id": "CXR11_IM-0011-0011",
+      "image_path": [
+        "CXR11_IM-0011-0011_0.png",
+        "CXR11_IM-0011-0011_1.png"
+      ],
+      "report": "the heart is normal in size. the lungs are clear. no acute abnormality."
+    },
+    {
+      "id": "CXR12_IM-0012-0012",
+      "image_path": [
+        "CXR12_IM-0012-0012_0.png",
+        "CXR12_IM-0012-0012_1.png"
+      ],
+      "report": "the cardiac silhouette is normal. the lungs are clear. no pleural effusion."
+    }
+  ],
+  "test": [
+    {
+      "id": "CXR13_IM-0013-0013",
+      "image_path": [
+        "CXR13_IM-0013-0013_0.png",
+        "CXR13_IM-0013-0013_1.png"
+      ],
+      "report": "the heart is normal in size. the lungs are clear. no acute abnormality."
+    },
+    {
+      "id": "CXR14_IM-0014-0014",
+      "image_path": [
+        "CXR14_IM-0014-0014_0.png",
+        "CXR14_IM-0014-0014_1.png"
+      ],
+      "report": "the cardiac silhouette is normal. the lungs are clear. no pleural effusion."
+    },
+    {
+      "id": "CXR15_IM-0015-0015",
+      "image_path": [
+        "CXR15_IM-0015-0015_0.png",
+        "CXR15_IM-0015-0015_1.png"
+      ],
+      "report": "the heart is normal in size. the lungs are clear. no acute abnormality."
+    },
+    {
+      "id": "CXR16_IM-0016-0016",
+      "image_path": [
+        "CXR16_IM-0016-0016_0.png",
+        "CXR16_IM-0016-0016_1.png"
+      ],
+      "report": "the cardiac silhouette is normal. the lungs are clear. no pleural effusion."
+    }
+  ]
+}
