@@ -1,0 +1,26 @@
+_BASE_: mimic.yml
+
+# Visual Extractor
+visual_extractor: resnet101
+pretrain_cnn_file:
+d_vf: 2048
+
+# DGMK-Net specific settings
+# Multi-scale feature extraction (enabled by default)
+no_multi_scale: False
+
+# DD-GAT settings
+num_gat_layers: 2
+num_gat_heads: 4
+
+# SACL contrastive learning settings
+contrastive_loss: False
+contrastive_temp: 0.07
+margin_weight: 0.5
+
+# Loss weights
+alpha_label: 0.1
+alpha_contrastive: 0.1
+
+# Output Dir
+save_dir: results_dgmk

@@ -1,0 +1,31 @@
+# dataset infomation
+dataset_name: mimic_cxr
+image_dir: data/mimic/files
+ann_path: data/mimic/r2gen/images/images224/annotation.json
+label_path: data/mimic/mimic-cxr-2.0.0-chexpert.csv
+
+# training parameter
+test_steps: 500
+
+# Hyperparameter
+max_seq_length: 80
+num_labels: 14
+threshold: 3
+
+batch_size: 16
+epochs: 30
+step_size: 20
+
+num_layers: 3
+
+gamma: 0.1
+seed: 456789
+lr_ed: 0.0001
+
+# Visual Extractor
+visual_extractor: resnet101
+pretrain_cnn_file:
+d_vf: 2048
+
+# Output Dir
+save_dir: results
